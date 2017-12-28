@@ -1,5 +1,5 @@
 # reading-group
-papers and code of deformable object manipulation
+papers and code for deformable object manipulation
 
 ## One or two papers a week. Order:
 
