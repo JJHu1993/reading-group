@@ -9,6 +9,6 @@ papers and code for deformable object manipulation
 
 [2016] Dexterous Manipulation of Cloth.pdf
 
+[2015] Deformation Capture and Modeling of Soft Objects.pdf
+
 [2017] What  Does  the  Person  Feel?  Learning  to  Infer  Applied  Forces during Robot-assisted dressing.pdf
- 
-test
