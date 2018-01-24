@@ -11,4 +11,8 @@ papers and code for deformable object manipulation
 
 [2015] Deformation Capture and Modeling of Soft Objects.pdf
 
+[2016] Data-Driven Haptic Perception for Robot-Assisted Dressing.pdf
+
+[2017] Haptic  Simulation  for  Robot-Assisted  Dressing.pdf
+
 [2017] What  Does  the  Person  Feel?  Learning  to  Infer  Applied  Forces during Robot-assisted dressing.pdf
