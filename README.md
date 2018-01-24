@@ -3,13 +3,13 @@ papers and code for deformable object manipulation
 
 ## One or two papers a week. Order:
 
-Done [2017]Fourier-Based Shape Servoing: A New Feedback Method to Actively Deform Soft Objects into Desired 2D Image Contours.pdf
+**Done** [2017]Fourier-Based Shape Servoing: A New Feedback Method to Actively Deform Soft Objects into Desired 2D Image Contours.pdf
 
-Done [2017] Learning to Navigate Cloth using Haptics.pdf
+**Done** [2017] Learning to Navigate Cloth using Haptics.pdf
 
-Done [2016] Dexterous Manipulation of Cloth.pdf
+**Done** [2016] Dexterous Manipulation of Cloth.pdf
 
-Done [2015] Deformation Capture and Modeling of Soft Objects.pdf
+**Done** [2015] Deformation Capture and Modeling of Soft Objects.pdf
 
 [2016] Data-Driven Haptic Perception for Robot-Assisted Dressing.pdf
 
