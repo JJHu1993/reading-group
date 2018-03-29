@@ -17,4 +17,6 @@ papers and code for deformable object manipulation
 
 [2017] What  Does  the  Person  Feel?  Learning  to  Infer  Applied  Forces during Robot-assisted dressing.pdf **Done** 
 
-[2017]Deep Haptic Model Predictive Control for Robot-Assisted Dressing.pdf
+[2017] Deep Haptic Model Predictive Control for Robot-Assisted Dressing.pdf
+
+[2018] Flexible Robotic Grasping with Sim-to-Real Transfer based Reinforcement Learning.pdf
